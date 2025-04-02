@@ -1,5 +1,6 @@
 # Classifiers-for-Banking
 My goal is to compare the performance of the classifiers, namely K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines. I will utilize a dataset related to marketing bank products over the telephone. Our dataset comes from the UCI Machine Learning repository link (https://archive.ics.uci.edu/dataset/222/bank+marketing). The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
+The link to the Jupyter Notebook: https://github.com/saeedjazebi/Classifiers-for-Banking/blob/main/Classifiers_for_Banks.ipynb
 Imported the required libraries. 
 Loaded the full dataset.
 Started reading the data and undertanding the data fields and what each one of them mean.
